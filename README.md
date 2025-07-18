@@ -1,1 +1,0 @@
-# Leyley-activities
