@@ -1,0 +1,13 @@
+body {
+  background-color: #f6f7fb;
+  font-family: 'Segoe UI', sans-serif;
+}
+input, button {
+  border-radius: 8px !important;
+}
+.card h5 {
+  font-weight: 600;
+}
+.card p {
+  margin-bottom: 0;
+}
